@@ -1,2 +1,0 @@
-# Simple-String-calculator
-Assignment
